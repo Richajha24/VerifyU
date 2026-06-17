@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58738058163",
+    "project_id": "verifyu-24",
+    "storage_bucket": "verifyu-24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58738058163:android:60e2bacfc3a9bc056761c6",
+        "android_client_info": {
+          "package_name": "com.example.verify_u"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Tds08JhUjcocciIWXV3g3FyNQRCzdR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
